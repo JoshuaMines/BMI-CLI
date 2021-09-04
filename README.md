@@ -6,7 +6,6 @@ A small program that takes in height and weight and returns BMI.
 
 Open root folder in terminal run:
 
-''''bash
+```bash
 python3 bmi.py
-''''
-
+```
